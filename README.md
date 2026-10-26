@@ -19,3 +19,6 @@ It works, doesn't it? I wouldn't do this for a professional project though, as i
 
 ## Why is the file named `ihatemyjob.py`?
 ~~Do you have anything better to do with your time?~~ I assume the person using this probably resonates with the file name.
+
+## I love this so much. You are the best person to ever touch Python.
+Oh my, thank you so much. I knew lots of people would say that, so I pre-wrote my response here. Now you can pretend I personalised it to you :).
